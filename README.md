@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @PrashantRawatCoder
-- 👀 I’m interested in Programming/Hacking/AI
-- 🌱 I’m currently learning Advance Python and AI
-- 💞️ I’m looking to collaborate on :P
-- 📫 How to reach me | Email : prashantrawat.coding@gmail.com , prashantjnv34@gmail.com , learnehking@gmail.com
+<h1> 👋 Hi,  I am Prashant Rawat .</h1>
+
+- 😃 I am a Middle School Student From India (Haryana) .
+- 👀 I’m interested in Programming , Hacking , Business , and NEW COOL TECH . 
+- 🌱 I’m currently trying to learn a lot about programming.
+- 💞️ I’m looking to collaborate on any Kind of Python Project from which I can learn something valuable. 
+- 📫 How to reach me | Email : prashantrawat.coder@gmail.com , prashantjnv34@gmail.com.
 
 
 <!---
