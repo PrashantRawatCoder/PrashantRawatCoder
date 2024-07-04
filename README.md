@@ -8,8 +8,13 @@
      ~ C  _____ ( ⭐️⭐️⭐️_____ )<br>
      ~ C++  ___ ( ⭐️⭐️⭐️_____ )<br>
      ~ SDL2  __ ( ⭐️⭐️⭐️_____ )<br>
-- 🌱 I’m currently trying to learn a lot about programming.
-- 💞️ I’m looking to collaborate on any Kind of Python Project from which I can learn something valuable. 
+<br>
+- 🌱 Hello! I'm a dedicated and passionate 15-year-old programmer from Haryana, India. Currently, I am a 10th-grade student, and I have been captivated by the world of programming since I was 11. My journey began with a simple curiosity about how computers work, and it quickly evolved into a deep-seated love for coding.
+
+👨‍💻 I am proficient in Python, C++, and C, and I have the ability to immerse myself in programming for up to 12 hours a day. My enthusiasm for learning and improving my skills is boundless, and I am constantly seeking new challenges and opportunities to grow.
+
+🙏 I am always open to suggestions, mentorship, or collaborative opportunities to enhance my learning experience. If you have any advice or would like to connect, please feel free to reach out. Let's connect and create something amazing together!
+
 - 📫 How to reach me | Email : prashantrawat.coder@gmail.com , prashantjnv34@gmail.com.
 
 
